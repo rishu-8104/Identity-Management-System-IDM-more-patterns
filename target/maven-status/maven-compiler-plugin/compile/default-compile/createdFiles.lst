@@ -1,0 +1,15 @@
+fi/tamk/sade23/idm/Identity.class
+fi/tamk/sade23/idm/Student.class
+fi/tamk/sade23/idm/StaffStrategy.class
+fi/tamk/sade23/idm/IdmService.class
+fi/tamk/sade23/idm/VisitorStrategy.class
+fi/tamk/sade23/idm/IdentityStrategy.class
+fi/tamk/sade23/Main.class
+fi/tamk/sade23/idm/StaffAdapter.class
+fi/tamk/sade23/idm/Staff.class
+fi/tamk/sade23/idm/Visitor.class
+fi/tamk/sade23/idm/IdmToContactsAdapter.class
+fi/tamk/sade23/idm/Contact.class
+fi/tamk/sade23/idm/StudentStrategy.class
+fi/tamk/sade23/idm/StudentAdapter.class
+fi/tamk/sade23/idm/ContactsService.class

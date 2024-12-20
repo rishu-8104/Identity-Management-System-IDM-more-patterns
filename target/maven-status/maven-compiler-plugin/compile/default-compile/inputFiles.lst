@@ -1,0 +1,15 @@
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/Identity.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/Main.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/Student.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/ContactsService.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/VisitorStrategy.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/StudentStrategy.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/Contact.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/StaffStrategy.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/Visitor.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/IdentityStrategy.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/StudentAdapter.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/Staff.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/IdmToContactsAdapter.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/IdmService.java
+/Users/rishukumar/Desktop/java-idm-strategy-and-adapter-design-patterns-applied-to-case-idm-implementation-with-java/src/main/java/fi/tamk/sade23/idm/StaffAdapter.java
